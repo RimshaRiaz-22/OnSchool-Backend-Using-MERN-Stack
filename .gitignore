@@ -1,0 +1,6 @@
+# node.js
+#
+node_modules/
+# image-uploads/
+npm-debug.log
+yarn-error.log
